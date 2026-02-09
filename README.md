@@ -18,7 +18,7 @@ Libertas aims to be a cryptocurrency that works **for everyone**:
 
 * Users
 
-By prioritizing **Efficiency: and modular design**:
+By prioritizing **Efficiency and modular design**:
 
 Libertas achieves compatibility across platforms while maintaining a fully decentralized network.
 
