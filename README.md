@@ -121,7 +121,7 @@ By focusing on these groups, Libertas fills a niche of **transparent, reliable, 
 
 ## Technical Design Highlights
 
-- **Modular Architecture:** Mining, wallet, and node functionalities are separated into reusable libraries. 
+- **Modular Architecture:** Mining, wallet, and node functionalities are separated into reusable parts. 
 - **Cross-Platform Support:** CLI core and QT wallets are supported in both Windows and Linux. Android Has its own wallet with kotlin and C++.
 - **Secure Wallets:** Wallets rely on libsodium for KDFs, signatures, and memory safety.
 - **Robust Networking:** P2P protocol includes discovery, validation, and resynchronization mechanisms to maintain network integrity.
